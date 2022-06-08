@@ -38,7 +38,3 @@ $RECYCLE.BIN/
 # Temporary
 .netrwhist
 *~
-
-##### Notepad++
-# Notepad++ backups #
-*.bak
